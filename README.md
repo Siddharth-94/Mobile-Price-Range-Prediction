@@ -1,11 +1,11 @@
 # Mobile-Price-Range-Prediction
-This is a Supervised ML Project where we use the classification algorithms to make prediction on the target variable.
+This is a Supervised ML Project where we use the classification algorithms to make predictions on the target variable.
 
 # Project Summary
 
 A) The mobile phone industry is fiercely competitive, and the price of a mobile phone is determined by multiple factors such as battery power, Bluetooth, camera quality, and screen size. To investigate the factors that influence the price range of mobile phones, a study was conducted. The study utilized a dataset containing approximately 21 variables to forecast the price range of mobile phones, which are categorized as low, medium, high, and very high.
 
-B) Initially, the analysis process focused on data wrangling, which involved managing missing values and verifying unique values. During this stage, it was discovered that 180 mobile phones had a pixel resolution height of 0, and two phones had a screen width of 0 cm. It is not logical for a phone screen width or pixel height to be 0, so the I decided to replace these 0 values with the mean values. This ensured that the dataset had no missing values.
+B) Initially, the analysis process focused on data wrangling, which involved managing missing values and verifying unique values. During this stage, it was discovered that 180 mobile phones had a pixel resolution height of 0, and two phones had a screen width of 0 cm. It is not logical for a phone screen width or pixel height to be 0, so I decided to replace these 0 values with the mean values. This ensured that the dataset had no missing values.
 
 C) After I finished data wrangling, I performed exploratory data analysis (EDA). From this analysis, I discovered that all categories of mobile phones had an equal price range distribution. Furthermore, I found that there was a positive correlation between the battery capacity of a phone and its price range. The distribution of battery capacity also gradually increased as the price range increased, implying that consumers may be willing to pay more for a mobile phone with a higher battery capacity. In terms of Bluetooth usage, I found that almost half of the devices had it, while the other half did not.
 

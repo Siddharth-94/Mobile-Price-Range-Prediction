@@ -25,5 +25,5 @@ In the competitive mobile phone market, companies want to understand sales data 
 
 1. Pandas for data manipulation and agrregation.
 2. Matplotlib and Seaborn for visualization and behavior with respect to the target variable.
-3. Numpy for computationally efficient operations
+3. Numpy for computationally efficient operations.
 4. Scikit Learn for model training, model optimization and metrics calculation.

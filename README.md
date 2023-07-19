@@ -1,5 +1,5 @@
 # Mobile-Price-Range-Prediction
-This is a Supervised ML Project where we use the classification algorithms to make predictions on the target variable.
+This is a Supervised ML Project where we use classification algorithms to make predictions on the target variable.
 
 # Project Summary
 
